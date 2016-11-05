@@ -1,0 +1,28 @@
+_repo: George-Sand_13038
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Caro, E. (Elme-Marie)
+    aliases:
+    - Caro, Elme-Marie
+    - Karo, E. (Elme-Marie)
+    birthdate: 1826
+    deathdate: 1887
+    gutenberg_agent_id: '4794'
+    url: http://www.gutenberg.org/2009/agents/4794
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2004-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13038'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sand, George, 1804-1876'
+- !lcc 'PQ'
+- GITenberg
+title: George Sand
+url: http://www.gutenberg.org/ebooks/13038
